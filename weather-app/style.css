@@ -83,7 +83,6 @@ form input[type="submit"]:hover {
 }
 
 @media (max-width: 768px) {
-
   form {
     flex-direction: column;
   }
@@ -92,6 +91,4 @@ form input[type="submit"]:hover {
     width: 100%;
     margin-bottom: 10px;
   }
-
-  
 }
